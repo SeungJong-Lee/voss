@@ -18,7 +18,7 @@ VOSS : Be Boss of Voice
 # 👪 멤버
 | Frontend | Backend | Frontend | Backend | Frontend | Backend
 | -------- | -------- | -------- | -------- | -------- | --------
-| [정현우](https://github.com/jeonghyunwooo) | [김수연](https://github.com/suyeonsu) | [김준섭](https://github.com/uttamapaksa) | [이승종](https://github.com/SeungJong-Lee) | [이시영](https://github.com/swy0123) | [이원영](https://github.com/210-reverof) |
+| [정현우](https://github.com/jeonghyunwooo) | [김수연](https://github.com/suyeonsu) | [김준섭](https://github.com/uttamapaksa) | [이승종](https://github.com/bbong-gu) | [이시영](https://github.com/swy0123) | [이원영](https://github.com/210-reverof) |
 
 <br>
 <br>
